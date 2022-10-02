@@ -2,8 +2,8 @@
 
 ## langkah langkah praktikum
 1. Membuat Paragraf
-Untuk membuat paragraf pada HTML dapat menggunakan tag <p>. Penulisannya adalah dimulai dari tag pembuka <p> dan diakhiri dengan tag penutup </p>
-Atribut Align pada Tag <p>
+Untuk membuat paragraf pada HTML dapat menggunakan tag p. Penulisannya adalah dimulai dari tag pembuka p dan diakhiri dengan tag penutup /p
+Atribut Align pada Tag p
 Align left. Value pada atribut ini berfungsi untuk merapikan paragraf agar menjadi rata kiri.
 Align center. Value ini berfungsi untuk mengatur paragraf rata tengah.
 Align right. Value ini untuk merapikan paragraf menjadi rata kanan.
@@ -15,9 +15,9 @@ contoh :
 2. Menambahkan Judul
 Heading merupakan sebuah judul yang biasanya digunakan pada sebuah halaman artikel pada web.
 Atau terkadang dibeberapa bagian dari halaman web.
-Judul atau heading pada dokumen HTML dapat dibuat dengan menggunakan tag <h1> sampai <h6>.
-Tag <h1> merupakan judul pada lever pertama, kemudian level berikutnya atau sub judul pada tag
-<h2> dan seterusnya sampai tag <h6>.
+Judul atau heading pada dokumen HTML dapat dibuat dengan menggunakan tag h1 sampai h6.
+Tag h1 merupakan judul pada lever pertama, kemudian level berikutnya atau sub judul pada tag
+h2 dan seterusnya sampai tag h6
 contoh :
 
 ![gambar 2a](ss/2a.png)
@@ -27,23 +27,23 @@ contoh :
 Ada beberapa tag yang dapat digunakan untuk memformat teks pada paragraf. Diantaranya adalah
 sebagai berikut:
 Tag Keterangan
-<b> Bold text
-<strong> Important text
-<i> Italic text
-<em> Emphasized text
-<mark> Marked text
-<small> Smaller text
-<del> Deleted text
-<ins> Inserted text
-<sub> Subscript text
-<sup> Superscript text
+b Bold text
+strong Important text
+i Italic text
+em Emphasized text
+mark Marked text
+small Smaller text
+del Deleted text
+ins Inserted text
+sub Subscript text
+sup Superscript text
 Contoh :
 
 ![gambar 3](ss/3.png)
 
 4. Menyisipkan Gambar
 Image atau gambar dapat disisipkan kedalam halaman web. HTML menyediakan tag khusus untuk
-dapat menampilkan gambar. Tag yang digunakan untuk menampilkan gambar adalah <img>
+dapat menampilkan gambar. Tag yang digunakan untuk menampilkan gambar adalah img
 dengan atribut src sebagai URL atau Path file gambar berada. Tag ini dapat memuat gambar dengan
 berbagai jenis ekstensi file gambar.
 Atribut lain yang dapat digunakan untuk pengaturan gambar adalah
@@ -65,7 +65,7 @@ Link juga dapat menghubungkan beberapa bagian pada halaman yang sama atau disebu
 Anchor.
 Elemen link ini dapat diklik sehingga akan membuka halaman atau bagian sesuai dengan URL yang
 diberikan pada link tersebut.
-Untuk membuat Hyperlink atau Anchor menggunakan tag <a> dengan menambahkan atribut href
+Untuk membuat Hyperlink atau Anchor menggunakan tag a dengan menambahkan atribut href
 sebagai penentu URL yang dimaksud.
 Contoh :
 
